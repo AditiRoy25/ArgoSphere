@@ -1,0 +1,32 @@
+{
+    "swaggerDefinition": {
+      "info": {
+        "title": "Test API",
+        "version": "1.0.0",
+        "description": "API documentation create by webskitters",
+        "contact": {
+          "name": "Aditi roy"
+        },
+        "servers": [
+          "http://localhost:5000"
+          
+        ]  
+      },
+      "tags": [
+        {
+            "name": "Authentication",
+            "description": "Authentication API"
+        },
+        {
+            "name": "Admin",
+            "description": "Admin API"
+        }
+    ],
+    "schemes": "['https', 'http']"
+      
+    },
+    "apis": [
+      "server.js",
+      "./app/routes/*.js"
+    ]
+  }

@@ -1,0 +1,18 @@
+{"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:09:58.500Z"}
+{"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:20:20.197Z"}
+{"http_code":403,"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:23:06.367Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T07:54:34.848Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T07:55:01.070Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T08:03:03.290Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:21:08.780Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:22:44.257Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:22:46.788Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:25:02.820Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:25:05.377Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND ac-ayzf18s-shard-00-02.lgpjrhe.mongodb.net","service":"user-service","timestamp":"2026-07-09T12:07:41.159Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 7 (line 2 column 5)","service":"user-service","timestamp":"2026-07-09T12:16:07.100Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-09T12:40:05.563Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"aditi123@yopmail.com\" (type string) at path \"_id\" for model \"user\"","service":"user-service","timestamp":"2026-07-09T14:19:58.111Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-07-27T16:32:26.974Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-08-02T14:41:53.610Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-08-02T14:42:23.471Z"}

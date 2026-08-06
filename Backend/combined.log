@@ -1,0 +1,1201 @@
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:07:58.252Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:07:59.288Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:13:05.387Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:13:06.285Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:13:13.009Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:13:13.713Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:13:42.667Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:13:43.342Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:13:51.488Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:13:52.199Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:14:14.167Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:14:15.236Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:14:24.603Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:14:25.945Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:14:36.033Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:14:36.744Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:14:58.228Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:14:58.862Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:15:17.619Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:15:19.406Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:17:28.470Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:17:29.209Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:17:46.781Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:17:47.455Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:17:54.007Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:17:54.700Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:18:45.728Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:18:46.607Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:19:19.262Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:19:20.103Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:21:54.479Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:21:56.083Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:22:17.988Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:22:19.554Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:22:29.523Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:22:32.265Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T15:23:16.580Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T15:23:17.209Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:22:44.541Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:22:45.419Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:22:59.887Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:23:07.998Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:23:08.862Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:24:13.036Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:24:13.762Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:25:55.987Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:25:57.214Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:26:18.942Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:26:19.747Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:26:48.637Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:26:49.540Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:27:02.977Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:27:03.750Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:27:19.442Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:27:20.133Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:27:58.263Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:27:59.022Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:28:13.679Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:28:14.349Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:30:08.021Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:30:08.769Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:30:55.067Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:30:55.883Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:31:21.259Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:31:21.960Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:31:27.791Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:31:28.555Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:31:46.872Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:31:47.647Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:31:57.459Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:32:02.117Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:32:02.840Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:32:58.197Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:32:58.899Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:33:19.957Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:33:20.842Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:33:30.710Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:33:31.461Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:33:47.700Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:33:48.378Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:33:53.615Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:33:54.284Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:34:00.957Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:34:01.667Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:34:24.023Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:34:24.757Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:34:36.968Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:34:50.087Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:34:50.789Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:35:00.501Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:35:01.193Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:39:03.433Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:39:04.213Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:39:29.741Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:39:30.387Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:41:29.945Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:41:30.546Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:41:52.423Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:41:52.989Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:43:56.316Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:44:04.453Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:44:05.252Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:44:12.171Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:44:12.739Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:44:18.382Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:44:19.043Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:44:30.711Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:44:31.905Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:45:28.257Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:45:28.874Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:46:03.155Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:46:03.787Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:46:31.937Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:46:32.707Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:46:59.110Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:46:59.741Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:47:31.368Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:47:32.056Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:47:40.848Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:47:41.481Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:51:37.238Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:51:38.061Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:55:35.988Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:55:36.715Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:56:28.958Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:56:29.605Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:56:36.174Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:56:36.816Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:56:41.262Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:56:41.909Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:56:51.389Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:56:51.991Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T16:59:36.400Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T16:59:37.230Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:02:45.208Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:02:46.004Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:03:21.793Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:03:22.410Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:03:28.941Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:03:29.793Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:04:14.440Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:04:15.088Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:04:47.771Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:04:48.814Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:05:43.698Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:05:44.380Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:05:50.391Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:05:51.113Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:07:22.611Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:07:24.577Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:11:06.211Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:11:07.184Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:29:07.058Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:29:09.389Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:29:23.427Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:29:27.743Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:29:32.184Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:29:33.218Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:44:34.894Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:44:36.535Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:47:32.292Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:47:35.425Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:47:46.517Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:47:50.496Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:48:39.884Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:48:44.179Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:49:32.186Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:49:37.793Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:49:45.449Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:49:47.248Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:50:13.767Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:50:16.244Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:50:27.033Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:50:38.551Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:50:56.490Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:50:57.583Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:52:29.350Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:52:32.201Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:52:41.119Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:52:42.061Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:52:52.361Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:52:53.807Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:03.164Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:53:05.473Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:15.972Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:53:16.815Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:27.779Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:53:29.885Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:37.170Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:53:38.195Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:46.939Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:53:47.999Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:53:57.785Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:54:03.722Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:54:12.558Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:54:13.701Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:54:22.390Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:54:27.447Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:54:37.117Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:54:39.226Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:54:50.220Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:54:51.534Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:55:00.806Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:55:04.605Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:55:11.244Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:55:12.090Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-06-29T17:55:22.379Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-06-29T17:55:26.294Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T09:41:20.966Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T09:41:21.871Z"}
+{"level":"info","message":"Server running on port 5050","service":"user-service","timestamp":"2026-07-05T10:42:41.622Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T10:42:42.854Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T10:56:52.745Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T10:56:53.706Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:02:06.716Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:02:07.567Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:02:15.293Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:02:15.913Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:06:44.918Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:06:45.753Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:07:08.459Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:07:09.101Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:09:34.091Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:09:35.208Z"}
+{"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:09:58.500Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-05T11:19:43.384Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:19:43.974Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:19:44.481Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-05T11:19:45.325Z"}
+{"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:20:20.197Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-05T11:23:03.664Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:23:04.323Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:23:04.937Z"}
+{"file":"uploads\\card3.jpeg-1783250585046.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-05T11:23:05.374Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-05T11:23:05.506Z"}
+{"http_code":403,"level":"error","message":"Server returned unexpected status code - 403","service":"user-service","timestamp":"2026-07-05T11:23:06.367Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-05T11:26:07.911Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:26:08.593Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:26:09.511Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-05T11:26:09.676Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-05T11:26:26.374Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-05T11:26:27.016Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-05T11:26:27.647Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-05T11:26:28.170Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T07:48:43.537Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T07:48:44.750Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T07:48:45.433Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T07:48:45.824Z"}
+{"file":"uploads\\card3.jpeg-1783324217535.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-06T07:50:17.945Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"movie-booking/users/qjvx2lqqittvv9ddut5z","service":"user-service","timestamp":"2026-07-06T07:50:19.399Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1783324218/movie-booking/users/qjvx2lqqittvv9ddut5z.jpg"}
+{"level":"info","message":"OTP sent to adi123@yopmail.com","service":"user-service","timestamp":"2026-07-06T07:50:23.636Z"}
+{"email":"adi123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-06T07:50:23.728Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T07:54:34.848Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T07:55:01.070Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:00:44.528Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:00:45.299Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:00:45.922Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:00:46.384Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:01:26.960Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:01:27.407Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:01:27.932Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:01:28.519Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:02:33.859Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:02:34.275Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:02:34.830Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:02:35.379Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-06T08:03:03.290Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:04:38.150Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:04:39.781Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:04:40.456Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:04:41.430Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:07:10.357Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:07:11.111Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:07:11.970Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:07:12.602Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-06T08:07:20.427Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-06T08:07:20.894Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-06T08:07:21.449Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-06T08:07:22.199Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:06:50.598Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:06:51.719Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:06:52.439Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:06:53.118Z"}
+{"file":"uploads\\card3.jpeg-1783591795423.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-09T10:09:55.923Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"movie-booking/users/dshselefx7d4lopdpwom","service":"user-service","timestamp":"2026-07-09T10:09:59.210Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1783591798/movie-booking/users/dshselefx7d4lopdpwom.jpg"}
+{"level":"info","message":"OTP sent to aditi123@yopmail.com","service":"user-service","timestamp":"2026-07-09T10:10:04.287Z"}
+{"email":"aditi123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-09T10:10:04.293Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:17:07.351Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:17:08.310Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:17:08.945Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:17:09.713Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:28:47.521Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:28:48.508Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:28:49.264Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:28:50.180Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:30:32.419Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:30:32.916Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:30:33.579Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:30:33.986Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:32:52.766Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:32:53.707Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:32:54.323Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:32:56.921Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:33:21.223Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:33:21.664Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:33:22.509Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:33:23.058Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:36:56.725Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:36:57.690Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:36:58.335Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:36:59.504Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:37:15.710Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:37:16.454Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:37:17.037Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:37:18.917Z"}
+{"level":"info","message":"OTP sent aditi123@yopmail.com","service":"user-service","timestamp":"2026-07-09T10:41:55.532Z"}
+{"level":"info","message":"OTP Resent : aditi123@yopmail.com","service":"user-service","timestamp":"2026-07-09T10:41:55.536Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:50:04.258Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:50:05.164Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:50:05.821Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:50:06.275Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:52:21.682Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:52:22.325Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:52:22.936Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:52:23.941Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:53:03.006Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:53:03.601Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:53:04.320Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:53:05.001Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:55:40.571Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:55:41.330Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:55:41.971Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:55:42.688Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T10:58:03.326Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T10:58:04.132Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T10:58:04.744Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T10:58:05.756Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:21:08.780Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T11:22:42.349Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T11:22:43.187Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T11:22:43.877Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:22:44.257Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T11:22:44.822Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:22:46.788Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:25:02.820Z"}
+{"level":"error","message":"secretOrPrivateKey must have a value","service":"user-service","timestamp":"2026-07-09T11:25:05.377Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T11:47:25.399Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T11:47:26.942Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T11:47:27.649Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T11:47:28.345Z"}
+{"level":"error","message":"getaddrinfo ENOTFOUND ac-ayzf18s-shard-00-02.lgpjrhe.mongodb.net","service":"user-service","timestamp":"2026-07-09T12:07:41.159Z"}
+{"email":"aditi123@yopmail.com","level":"info","message":"User Login","service":"user-service","timestamp":"2026-07-09T12:10:50.237Z"}
+{"file":"uploads\\card3.jpeg-1783599077428.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-09T12:11:17.696Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"movie-booking/users/vqdfh0qsklm9rx5iegid","service":"user-service","timestamp":"2026-07-09T12:11:19.823Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1783599079/movie-booking/users/vqdfh0qsklm9rx5iegid.jpg"}
+{"level":"info","message":"OTP sent abc123@yopmail.com","service":"user-service","timestamp":"2026-07-09T12:11:24.002Z"}
+{"email":"abc123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-09T12:11:24.004Z"}
+{"email":"abc123@yopmail.com","level":"info","message":"User Login","service":"user-service","timestamp":"2026-07-09T12:12:27.441Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 7 (line 2 column 5)","service":"user-service","timestamp":"2026-07-09T12:16:07.100Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:19:13.190Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:19:13.918Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:19:14.649Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:19:15.606Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:21:42.603Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:21:43.226Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:21:44.018Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:21:44.316Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:26:52.350Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:26:52.953Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:26:53.687Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:26:55.418Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:29:36.419Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:29:37.205Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:29:37.830Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:29:39.074Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:29:53.032Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:29:53.533Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:29:54.138Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:29:54.916Z"}
+{"level":"error","message":"Cannot destructure property 'email' of 'req.body' as it is undefined.","service":"user-service","timestamp":"2026-07-09T12:40:05.563Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:41:48.859Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:41:49.436Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:41:49.981Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:41:50.559Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:50:27.680Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:50:28.646Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:50:29.263Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:50:29.735Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:50:47.356Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:50:48.018Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:50:48.569Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:50:49.123Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:50:58.329Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:50:58.803Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:50:59.449Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:51:00.449Z"}
+{"email":"abc123@yopmail.com","level":"info","message":"FORGOT BODY:","service":"user-service","timestamp":"2026-07-09T12:51:08.229Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T12:54:29.318Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T12:54:29.920Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T12:54:30.480Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T12:54:31.093Z"}
+{"level":"info","message":"Reset email sent abc123@yopmail.com","service":"user-service","timestamp":"2026-07-09T12:54:36.119Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:03:34.229Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:03:35.245Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:03:35.843Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:03:36.340Z"}
+{"level":"info","message":"Reset email sent abc123@yopmail.com","service":"user-service","timestamp":"2026-07-09T13:04:02.938Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:06:10.310Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:06:10.997Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:06:11.629Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:06:12.900Z"}
+{"level":"info","message":"Reset email sent abc123@yopmail.com","service":"user-service","timestamp":"2026-07-09T13:06:33.991Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:41:26.832Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:41:27.440Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:41:28.015Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:41:28.574Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:41:54.155Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:41:54.570Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:41:55.184Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:41:55.613Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:45:18.813Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:45:19.352Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:45:19.935Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:45:20.462Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:47:27.698Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:47:28.161Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:47:28.701Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:47:29.467Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T13:52:23.742Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T13:52:24.317Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T13:52:25.184Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T13:52:25.626Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:05:08.144Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:05:08.568Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:05:09.758Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:05:11.224Z"}
+{"level":"info","message":"Old image deleted : movie-booking/users/vqdfh0qsklm9rx5iegid","service":"user-service","timestamp":"2026-07-09T14:18:27.018Z"}
+{"level":"info","message":"New image uploaded : movie-booking/users/zfxqww7r06w7fjyp8yhj","service":"user-service","timestamp":"2026-07-09T14:18:28.252Z"}
+{"level":"info","message":"Profile Updated : abc123@yopmail.com","service":"user-service","timestamp":"2026-07-09T14:18:28.747Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"aditi123@yopmail.com\" (type string) at path \"_id\" for model \"user\"","service":"user-service","timestamp":"2026-07-09T14:19:58.111Z"}
+{"level":"info","message":"User Blocked : aditi123@yopmail.com","service":"user-service","timestamp":"2026-07-09T14:27:22.777Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:28:21.380Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:28:22.170Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:28:23.219Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:28:23.311Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:38:01.277Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:38:01.786Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:38:02.692Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:38:03.126Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:39:54.991Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:39:55.470Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:39:56.616Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:40:04.134Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:40:04.503Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:40:05.600Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:40:07.538Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:40:47.098Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:40:47.679Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:40:51.490Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:40:51.860Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:40:52.940Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:40:54.545Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:27.778Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:28.429Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:31.923Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:32.326Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:51:33.091Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:51:33.760Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:39.284Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:39.675Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:51:41.002Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:51:41.243Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:46.457Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:46.896Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:51:47.961Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:51:48.165Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:52.735Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:53.158Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:51:54.354Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:51:54.375Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:51:57.907Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:51:58.404Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:04.134Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:04.538Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:09.297Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:09.694Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:10.767Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:14.601Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:15.042Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:16.108Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:20.999Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:21.362Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:22.657Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:52:22.698Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:26.673Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:27.095Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:28.205Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:52:29.305Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:32.696Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:33.169Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:34.243Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:37.584Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:37.969Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:39.026Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:43.261Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:43.647Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:44.736Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-09T14:52:48.908Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-09T14:52:49.290Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-09T14:52:50.408Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-09T14:52:50.626Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T17:55:56.497Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T17:55:57.132Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T17:55:57.922Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T17:55:58.293Z"}
+{"file":"uploads\\card5.jpeg-1784484086459.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-19T18:01:26.861Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"movie-booking/users/qgm0r76fympzqk2eyohy","service":"user-service","timestamp":"2026-07-19T18:01:28.298Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1784484087/movie-booking/users/qgm0r76fympzqk2eyohy.jpg"}
+{"level":"info","message":"OTP sent admin123@yopmail.com","service":"user-service","timestamp":"2026-07-19T18:01:32.286Z"}
+{"email":"admin123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-19T18:01:32.287Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:03:19.598Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:03:20.297Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:03:20.934Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:03:21.715Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:03:35.236Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:03:35.633Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:03:36.182Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:03:36.710Z"}
+{"file":"uploads\\card5.jpeg-1784484220936.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-19T18:03:41.172Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/ohu6sgcobhlpla5lkkxp","service":"user-service","timestamp":"2026-07-19T18:03:42.375Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1784484221/argo_Sphere/users/ohu6sgcobhlpla5lkkxp.jpg"}
+{"level":"info","message":"OTP sent admin123@yopmail.com","service":"user-service","timestamp":"2026-07-19T18:03:46.511Z"}
+{"email":"admin123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-19T18:03:46.512Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:20:32.653Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:20:33.171Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:20:33.723Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:20:34.012Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:20:42.107Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:20:42.920Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:20:43.490Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:20:43.735Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:23:09.591Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:23:10.241Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:23:10.829Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:23:11.049Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:23:59.744Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:24:00.151Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:24:00.676Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:24:00.930Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:24:07.568Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:24:08.499Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:24:09.011Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:24:09.689Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:24:17.401Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:24:17.813Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:24:18.366Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:24:18.650Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:24:43.499Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:24:44.068Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:24:44.582Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:24:45.346Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:24:50.549Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:24:50.955Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:24:51.526Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:24:51.764Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:25:21.665Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:25:22.741Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:25:23.282Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:25:23.710Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:26:05.322Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:26:05.818Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:26:06.496Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:26:06.672Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:29:21.116Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:29:21.722Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:29:22.282Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:29:22.624Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:29:27.560Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:29:28.008Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:29:28.524Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:29:28.808Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:29:53.579Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:29:54.101Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:29:54.675Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:29:54.934Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:30:17.830Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:30:18.308Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:30:18.857Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:30:19.136Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:31:07.989Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:31:08.443Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:31:08.967Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:31:09.263Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:45:33.152Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:45:33.763Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:45:34.385Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:45:34.611Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:45:41.552Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:45:41.931Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:45:42.448Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:45:42.746Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:48:01.447Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:48:02.049Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:48:02.612Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:48:02.868Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:49:12.340Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:49:12.797Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:49:13.361Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:49:13.649Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:49:41.656Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:49:42.050Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:49:42.630Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:49:42.878Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:50:09.502Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:50:09.897Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:50:10.450Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:50:10.892Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:51:03.680Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:51:04.073Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:51:04.581Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:51:05.467Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:52:44.990Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:52:45.426Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:52:46.081Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:52:46.676Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:53:03.495Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:53:03.929Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:53:04.501Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:53:05.018Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:53:11.689Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:53:12.066Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:53:12.706Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:53:13.454Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:53:22.784Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:53:23.182Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:53:23.834Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:53:24.572Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:54:32.286Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:54:32.872Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:54:37.056Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:54:37.499Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:54:38.072Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:54:38.569Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T18:57:35.936Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T18:57:36.423Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T18:57:36.964Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T18:57:37.245Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:22:39.525Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:22:40.313Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:22:40.967Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:22:41.453Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:23:27.309Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:23:27.743Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:23:28.815Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:23:29.455Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:23:34.885Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:23:35.332Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:23:36.148Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:23:43.126Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:23:43.544Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:23:44.370Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:23:45.658Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:24:04.985Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:24:05.354Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:24:06.026Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:24:06.432Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:24:39.702Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:24:40.067Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:24:40.884Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:24:44.262Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:25:48.865Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:25:49.515Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:25:50.669Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:25:52.352Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:25:59.970Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:26:00.341Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:26:01.217Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:26:04.264Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:27:47.185Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:27:47.732Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:27:48.573Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:27:49.168Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:27:55.433Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:27:55.932Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:27:57.066Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:27:58.791Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:28:08.888Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:28:09.297Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:28:10.153Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:28:11.249Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:28:16.218Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:28:16.604Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:28:17.732Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:28:18.662Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:28:59.629Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:29:00.174Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:29:01.249Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:29:02.342Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:29:22.469Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:29:23.182Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:29:24.033Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-19T19:30:16.254Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-19T19:30:16.735Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-19T19:30:17.631Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-19T19:30:18.256Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-20T07:12:21.809Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-20T07:12:22.547Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-20T07:12:23.092Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-20T07:12:23.593Z"}
+{"file":"uploads\\card5.jpeg-1784531586053.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-20T07:13:06.358Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/vckszwksl3fcfhlnc15a","service":"user-service","timestamp":"2026-07-20T07:13:08.330Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1784531588/argo_Sphere/users/vckszwksl3fcfhlnc15a.jpg"}
+{"level":"info","message":"OTP sent farmer123@yopmail.com","service":"user-service","timestamp":"2026-07-20T07:13:13.037Z"}
+{"email":"farmer123@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-20T07:13:13.040Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-20T07:26:24.165Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-20T07:26:24.754Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-20T07:26:25.352Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-20T07:26:25.622Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-20T07:26:35.267Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-20T07:26:35.828Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-20T07:26:36.456Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-20T07:26:36.683Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-20T07:27:04.918Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-20T07:27:05.350Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-20T07:27:05.815Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-20T07:27:06.247Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-20T07:27:19.417Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-20T07:27:19.858Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-20T07:27:20.397Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-20T07:27:20.705Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T13:59:20.799Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T13:59:21.334Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T13:59:21.941Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T13:59:22.137Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T15:18:22.976Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T15:18:23.881Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T15:18:24.534Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T15:18:24.646Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-07-27T16:32:26.974Z"}
+{"file":"uploads\\card5.jpeg-1785170847272.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-27T16:47:28.113Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/u0ljbph1mtvq7ximhssd","service":"user-service","timestamp":"2026-07-27T16:47:29.881Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1785170849/argo_Sphere/users/u0ljbph1mtvq7ximhssd.jpg"}
+{"level":"info","message":"OTP sent farmer1234@yopmail.com","service":"user-service","timestamp":"2026-07-27T16:47:35.174Z"}
+{"email":"farmer1234@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-27T16:47:35.176Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T16:50:37.031Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T16:50:38.534Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T16:50:39.136Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T16:50:39.383Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T17:03:52.317Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T17:03:59.149Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T17:04:00.040Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T17:04:00.443Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T17:06:06.113Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T17:06:08.075Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T17:06:08.942Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T17:06:10.309Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T17:10:30.749Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T17:10:34.770Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T17:10:36.285Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T17:10:36.715Z"}
+{"file":"uploads\\card5.jpeg-1785172246414.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-27T17:10:49.203Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/lxkuotjragpjrrouawab","service":"user-service","timestamp":"2026-07-27T17:10:50.585Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1785172250/argo_Sphere/users/lxkuotjragpjrrouawab.jpg"}
+{"level":"info","message":"OTP sent farmer000@yopmail.com","service":"user-service","timestamp":"2026-07-27T17:10:55.400Z"}
+{"email":"farmer000@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-27T17:10:55.480Z"}
+{"level":"info","message":"OTP sent farmer12@yopmail.com","service":"user-service","timestamp":"2026-07-27T17:11:16.636Z"}
+{"email":"farmer12@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-27T17:11:16.660Z"}
+{"file":"uploads\\images-(1).jpg-1785172364247.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-07-27T17:12:45.072Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/eeos1tuijguptqiw43fh","service":"user-service","timestamp":"2026-07-27T17:12:46.641Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1785172366/argo_Sphere/users/eeos1tuijguptqiw43fh.jpg"}
+{"level":"info","message":"OTP sent ngo1234@yopmail.com","service":"user-service","timestamp":"2026-07-27T17:12:50.877Z"}
+{"email":"ngo1234@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-07-27T17:12:50.879Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T17:33:31.424Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T17:33:38.277Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T17:33:39.191Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T17:33:39.304Z"}
+{"level":"info","message":"Reset email sent farmer12@yopmail.com","service":"user-service","timestamp":"2026-07-27T17:37:52.022Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T17:56:04.995Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T17:56:09.105Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T17:56:10.054Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T17:56:10.290Z"}
+{"level":"info","message":"Reset email sent farmer12@yopmail.com","service":"user-service","timestamp":"2026-07-27T17:56:16.503Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-27T18:04:44.967Z"}
+{"level":"info","message":"Server running on port 5000","service":"user-service","timestamp":"2026-07-27T18:04:47.290Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-27T18:04:47.938Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-27T18:04:48.220Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T08:15:45.629Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T08:15:47.467Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T08:15:47.676Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:53:32.509Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:53:34.163Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:53:40.684Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T11:53:42.480Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:53:42.678Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:54:12.659Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T11:54:14.089Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:54:15.085Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:54:44.655Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T11:54:45.949Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:54:46.165Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:55:12.497Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T11:55:13.817Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:55:14.020Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T11:55:18.287Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T11:55:19.385Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T11:55:19.649Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T12:00:49.323Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T12:00:50.839Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T12:00:50.935Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T12:01:31.124Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T12:01:32.600Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T12:01:32.857Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T12:12:29.007Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T12:12:32.817Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T12:12:32.959Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T16:27:31.283Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T16:27:33.233Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T16:27:33.496Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T16:30:44.357Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T16:30:46.209Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T16:30:47.938Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-28T16:33:21.105Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-28T16:33:23.203Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-28T16:33:23.268Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T09:08:00.063Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T09:08:12.532Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T09:08:12.939Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T09:53:51.248Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T09:53:52.890Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T09:53:53.665Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T09:55:52.534Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T09:55:55.200Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T09:55:55.412Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T09:56:09.892Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T09:56:11.738Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T09:56:11.912Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T12:44:17.971Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T12:44:19.481Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T12:44:19.760Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-29T17:57:53.466Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-29T17:57:56.142Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-29T17:57:56.435Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T08:10:55.817Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T08:10:58.039Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T08:10:58.316Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T08:17:55.825Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T08:17:57.355Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T08:17:57.727Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T08:18:12.113Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T08:18:13.340Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T08:18:13.577Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T09:42:46.637Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T09:42:49.472Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T09:42:50.202Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T09:43:06.370Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T09:43:08.758Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T09:43:09.045Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-30T09:43:33.240Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-30T09:43:34.607Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-30T09:43:34.875Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T09:54:35.233Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T09:54:37.250Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T09:54:37.494Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T10:05:48.724Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T10:05:50.416Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T10:05:50.633Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T10:06:04.253Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T10:06:05.558Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T10:06:05.789Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T10:10:22.131Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T10:10:23.759Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T10:10:24.542Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T19:35:17.497Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T19:35:19.939Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T19:35:20.969Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-07-31T19:38:07.555Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-07-31T19:38:09.193Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-07-31T19:38:09.508Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T14:18:21.905Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T14:18:26.673Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T14:18:27.689Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T15:01:22.216Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T15:01:24.107Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T15:01:24.630Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T16:55:27.036Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T16:55:30.440Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T16:55:30.999Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T16:56:04.053Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T16:56:06.991Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T16:56:07.319Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T16:56:57.536Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T16:57:00.521Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T16:57:02.470Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T16:57:39.645Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T16:57:42.538Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T16:57:42.888Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T17:33:37.402Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T17:33:40.693Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T17:33:41.086Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T17:42:56.537Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T17:42:59.837Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T17:43:00.667Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T17:55:36.139Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T17:55:41.669Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T17:55:42.806Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T17:58:37.882Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T17:58:41.464Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T17:58:42.462Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-01T18:06:57.016Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-01T18:07:17.307Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-01T18:07:18.817Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T13:31:48.596Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T13:31:51.344Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T13:31:51.790Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T13:39:16.518Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T13:39:18.858Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T13:39:20.111Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T13:45:49.087Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T13:45:50.712Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T13:45:51.021Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T13:49:00.418Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T13:49:01.610Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T13:49:01.868Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T13:50:50.437Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T13:50:51.635Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T13:50:51.928Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T14:11:55.696Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T14:11:56.818Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T14:11:57.160Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T14:15:00.561Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T14:15:01.917Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T14:15:02.176Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T14:23:04.683Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T14:23:07.360Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T14:23:08.228Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T14:41:50.203Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T14:41:51.406Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T14:41:51.621Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-08-02T14:41:53.610Z"}
+{"level":"error","message":"Invalid image type","service":"user-service","timestamp":"2026-08-02T14:42:23.471Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T14:51:24.956Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T14:51:26.375Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T14:51:26.640Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T15:01:31.607Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T15:01:33.392Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T15:01:33.627Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T15:10:18.866Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T15:10:20.422Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T15:10:20.460Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T15:11:06.992Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T15:11:08.356Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T15:11:08.396Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T15:11:21.020Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T15:11:22.134Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T15:11:22.613Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T15:12:00.966Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T15:12:02.004Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T15:12:02.153Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T16:23:40.707Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T16:23:53.391Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T16:23:53.615Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T16:24:09.693Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T16:24:11.129Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T16:24:11.370Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-02T16:26:52.400Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-02T16:26:53.899Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-02T16:26:55.610Z"}
+{"file":"C:\\node js\\nodeapp\\tasks\\ArgoSphere\\Backend\\uploads\\users\\card12.jpeg-1785692211154.jpeg","level":"info","message":"Uploading image","service":"user-service","timestamp":"2026-08-02T17:36:52.212Z"}
+{"level":"info","message":"Cloudinary Upload Success","public_id":"argo_Sphere/users/kqfir4om1fw6mabhtb95","service":"user-service","timestamp":"2026-08-02T17:36:53.945Z","url":"https://res.cloudinary.com/diqvprukh/image/upload/v1785692214/argo_Sphere/users/kqfir4om1fw6mabhtb95.jpg"}
+{"level":"info","message":"OTP sent ngo1@yopmail.com","service":"user-service","timestamp":"2026-08-02T17:36:58.343Z"}
+{"email":"ngo1@yopmail.com","level":"info","message":"User Registered","service":"user-service","timestamp":"2026-08-02T17:36:58.344Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:00:22.617Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:00:26.955Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:00:27.145Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:10:20.993Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:10:23.816Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:10:25.680Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:22:35.664Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:22:37.335Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:22:38.099Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:23:44.191Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:23:45.622Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:23:45.876Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:24:51.211Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:24:52.634Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:24:52.953Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:26:49.104Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:26:51.051Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:26:51.594Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:27:23.098Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:27:24.345Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:27:24.890Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:33:48.785Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:33:51.886Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:33:52.155Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:51:28.191Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:51:31.142Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:51:31.833Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T07:57:53.698Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T07:57:56.069Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T07:57:56.100Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T08:11:19.146Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T08:11:21.963Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T08:11:22.226Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T08:13:49.279Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T08:13:50.778Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T08:13:51.013Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T08:14:06.049Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T08:14:07.257Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T08:14:07.473Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:06:02.437Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:06:03.893Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:06:04.149Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:11:03.532Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:11:06.226Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:11:06.928Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:26:54.051Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:26:55.521Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:26:55.774Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:27:14.690Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:27:16.637Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:27:16.926Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:27:36.771Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:27:38.027Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:27:38.280Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:28:00.326Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:28:01.782Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:28:02.037Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:29:15.976Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:29:18.261Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:29:20.054Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:29:34.859Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:29:36.493Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:29:36.632Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:29:45.926Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:29:47.812Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:29:48.155Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:30:38.596Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:30:40.017Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:30:40.901Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-03T09:31:00.283Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-03T09:31:02.648Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-03T09:31:02.898Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T07:23:27.554Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T07:23:29.231Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T07:23:29.748Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T07:25:10.491Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T07:25:11.994Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T07:25:12.369Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T07:34:17.036Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T07:34:18.259Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T07:34:18.600Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T08:50:05.069Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T08:50:07.325Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T08:50:07.350Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T08:51:19.605Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T08:51:20.879Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T08:51:21.190Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T08:52:00.553Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T08:52:02.075Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T08:52:02.308Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T08:52:09.832Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T08:52:11.047Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T08:52:11.343Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T09:32:48.179Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T09:32:49.399Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T09:32:49.904Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T15:03:27.844Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T15:03:29.502Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T15:03:29.766Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T15:12:24.727Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T15:12:26.250Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T15:12:26.508Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T16:10:36.243Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T16:10:37.775Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T16:10:38.157Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T16:15:57.761Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T16:15:59.406Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T16:15:59.785Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T17:27:37.681Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T17:27:40.109Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T17:27:40.533Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-04T17:28:32.201Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-04T17:28:33.590Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-04T17:28:33.838Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T05:38:38.657Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T05:38:40.844Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T05:38:41.097Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T05:46:57.485Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T05:46:59.874Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T05:47:00.175Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:01:28.862Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:01:31.261Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:01:31.765Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:03:12.781Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:03:14.063Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:03:15.408Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:03:51.385Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:03:52.542Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:03:53.151Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:04:48.297Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:04:49.476Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:04:49.788Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:08:31.943Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:08:33.469Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:08:33.718Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:09:44.552Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:09:45.718Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:09:46.036Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:38:39.250Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:38:41.099Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:38:41.572Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T06:50:09.443Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T06:50:11.363Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T06:50:11.636Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T14:11:21.250Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T14:11:25.556Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T14:11:25.636Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T14:36:03.512Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T14:36:05.126Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T14:36:05.374Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T14:40:10.411Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T14:40:11.828Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T14:40:12.859Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:22:42.244Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:22:43.801Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:22:44.032Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:22:51.270Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:22:52.670Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:22:52.966Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:23:33.324Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:23:34.442Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:23:34.784Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:23:42.842Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:23:43.958Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:23:44.305Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:24:43.536Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:24:44.728Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:24:44.892Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-05T16:38:08.225Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-05T16:38:09.429Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-05T16:38:09.662Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T04:38:56.797Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T04:38:59.568Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T04:38:59.867Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:21:28.343Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:21:30.231Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:21:30.640Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:21:39.689Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:21:41.391Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:21:42.858Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:22:08.760Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:22:09.992Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:22:10.299Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:24:16.254Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:24:18.536Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:24:18.589Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:32:19.385Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:32:20.765Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:32:21.013Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:46:17.441Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:46:18.912Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:46:19.676Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T06:46:43.346Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T06:46:44.890Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T06:46:45.477Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:07:52.228Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:07:53.920Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:07:54.115Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:09:15.893Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:09:17.373Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:09:18.699Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:10:06.640Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:10:08.209Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:10:08.391Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:10:44.628Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:10:45.977Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:10:46.402Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:11:17.417Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:11:19.175Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:11:20.467Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:37:13.126Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:37:14.555Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:37:14.888Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:37:53.094Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:37:54.492Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:37:56.791Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:38:49.797Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:38:53.533Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:38:53.997Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:39:07.027Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:39:08.253Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:39:08.538Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:39:22.712Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:39:23.953Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:39:24.257Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T07:39:56.738Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T07:39:58.667Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T07:39:58.898Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T10:20:48.297Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T10:20:50.769Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T10:20:51.033Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T18:21:21.850Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T18:21:24.344Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T18:21:24.526Z"}
+{"api_key":"169494479345951","cloud_name":"diqvprukh","level":"info","message":"Cloudinary config loaded successfully","service":"user-service","timestamp":"2026-08-06T18:21:57.747Z"}
+{"level":"info","message":"Cloudinary Connected","service":"user-service","status":"ok","timestamp":"2026-08-06T18:21:59.482Z"}
+{"level":"info","message":"MongoDB Connected","service":"user-service","timestamp":"2026-08-06T18:21:59.531Z"}

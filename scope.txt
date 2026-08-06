@@ -1,0 +1,787 @@
+
+backend/
+│
+├── src/
+│
+├── config/
+│   ├── db.js
+│   ├── cloudinary.js
+│   ├── jwt.js
+│   └── swagger.js
+│
+├── models/
+│   ├── User.js
+│   ├── FarmerProfile.js
+│   ├── Farm.js
+│   ├── FarmMap.js
+│   ├── Seed.js
+│   ├── SeedOrder.js
+│   ├── Fertilizer.js
+│   ├── MarketplaceProduct.js
+│   ├── MarketplaceOrder.js
+│   ├── Vlog.js
+│   ├── VlogComment.js
+│   ├── VlogProgress.js
+│   ├── CropCalendar.js
+│   ├── CropDisease.js
+│   ├── LearningCourse.js
+│   ├── NGO.js
+│   ├── Workshop.js
+│   ├── GovernmentScheme.js
+│   ├── AllowanceApplication.js
+│   ├── Notification.js
+│   ├── AIConversation.js
+│   └── RefreshToken.js
+│
+├── controllers/
+│   ├── auth.controller.js
+│   ├── user.controller.js
+│   ├── farm.controller.js
+│   ├── seed.controller.js
+│   ├── fertilizer.controller.js
+│   ├── marketplace.controller.js
+│   ├── vlog.controller.js
+│   ├── crop.controller.js
+│   ├── weather.controller.js
+│   ├── ngo.controller.js
+│   ├── allowance.controller.js
+│   ├── report.controller.js
+│   ├── admin.controller.js
+│   └── ai.controller.js
+│
+├── routes/
+│   ├── auth.routes.js
+│   ├── user.routes.js
+│   ├── farm.routes.js
+│   ├── seed.routes.js
+│   ├── fertilizer.routes.js
+│   ├── marketplace.routes.js
+│   ├── vlog.routes.js
+│   ├── crop.routes.js
+│   ├── weather.routes.js
+│   ├── ngo.routes.js
+│   ├── allowance.routes.js
+│   ├── report.routes.js
+│   ├── admin.routes.js
+│   └── ai.routes.js
+│
+├── middlewares/
+│   ├── auth.js
+│   ├── role.js
+│   ├── upload.js
+│   ├── validate.js
+│   ├── errorHandler.js
+│   └── rateLimiter.js
+│
+├── validations/
+│   ├── auth.validation.js
+│   ├── farm.validation.js
+│   ├── marketplace.validation.js
+│   └── allowance.validation.js
+│
+├── services/
+│   ├── ai.service.js
+│   ├── weather.service.js
+│   ├── mail.service.js
+│   ├── cloudinary.service.js
+│   └── report.service.js
+│
+├── sockets/
+│   └── notification.socket.js
+│
+├── docs/
+│   └── swagger.js
+│
+├── utils/
+│   ├── generateToken.js
+│   ├── generateRefreshToken.js
+│   ├── sendEmail.js
+│   ├── response.js
+│   └── logger.js
+│
+├── app.js
+├── server.js
+│
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
+
+
+
+
+src/
+│
+├── app/
+│
+│   ├── (public)/
+│   │   ├── page.tsx
+│   │   ├── about/page.tsx
+│   │   ├── marketplace/page.tsx
+│   │   ├── learning/page.tsx
+│   │   ├── ngos/page.tsx
+│   │   ├── contact/page.tsx
+│   │
+│
+│   ├── (auth)/
+│   │   ├── login/page.tsx
+│   │   ├── register/page.tsx
+│   │   ├── verify-email/page.tsx
+│   │   ├── forgot-password/page.tsx
+│   │   ├── reset-password/[token]/page.tsx
+│   │
+│
+│   ├── farmer/
+│   │   ├── dashboard/page.tsx
+│   │   ├── profile/page.tsx
+│   │   ├── farms/page.tsx
+│   │   ├── farms/create/page.tsx
+│   │   ├── farms/[id]/page.tsx
+│   │   ├── farm-map/page.tsx
+│   │   ├── seeds/page.tsx
+│   │   ├── seeds/[id]/page.tsx
+│   │   ├── fertilizers/page.tsx
+│   │   ├── fertilizers/[id]/page.tsx
+│   │   ├── marketplace/page.tsx
+│   │   ├── marketplace/[id]/page.tsx
+│   │   ├── orders/page.tsx
+│   │   ├── crop-calendar/page.tsx
+│   │   ├── disease-detection/page.tsx
+│   │   ├── ai-assistant/page.tsx
+│   │   ├── learning/page.tsx
+│   │   ├── learning/[courseId]/page.tsx
+│   │   ├── vlogs/page.tsx
+│   │   ├── vlogs/[id]/page.tsx
+│   │   ├── allowances/page.tsx
+│   │   ├── notifications/page.tsx
+│   │   └── settings/page.tsx
+│
+│
+│   ├── ngo/
+│   │   ├── dashboard/page.tsx
+│   │   ├── farmers/page.tsx
+│   │   ├── workshops/page.tsx
+│   │   ├── workshops/create/page.tsx
+│   │   ├── courses/page.tsx
+│   │   ├── courses/create/page.tsx
+│   │   ├── vlogs/page.tsx
+│   │   ├── vlogs/create/page.tsx
+│   │   ├── programs/page.tsx
+│   │   ├── reports/page.tsx
+│   │   ├── attendance/page.tsx
+│   │   └── settings/page.tsx
+│
+│
+│   ├── officer/
+│   │   ├── dashboard/page.tsx
+│   │   ├── farmer-verification/page.tsx
+│   │   ├── farm-inspection/page.tsx
+│   │   ├── seed-quality/page.tsx
+│   │   ├── allowance-review/page.tsx
+│   │   ├── reports/page.tsx
+│   │   └── settings/page.tsx
+│
+│
+│   ├── ministry/
+│   │   ├── dashboard/page.tsx
+│   │   ├── ngo-verification/page.tsx
+│   │   ├── schemes/page.tsx
+│   │   ├── allowance-approval/page.tsx
+│   │   ├── analytics/page.tsx
+│   │   ├── reports/page.tsx
+│   │   └── settings/page.tsx
+│
+│
+│   ├── admin/
+│   │   ├── dashboard/page.tsx
+│   │   ├── users/page.tsx
+│   │   ├── farmers/page.tsx
+│   │   ├── ngos/page.tsx
+│   │   ├── products/page.tsx
+│   │   ├── seeds/page.tsx
+│   │   ├── fertilizers/page.tsx
+│   │   ├── marketplace/page.tsx
+│   │   ├── courses/page.tsx
+│   │   ├── vlogs/page.tsx
+│   │   ├── schemes/page.tsx
+│   │   ├── reports/page.tsx
+│   │   ├── notifications/page.tsx
+│   │   ├── analytics/page.tsx
+│   │   └── settings/page.tsx
+│
+│
+│   ├── layout.tsx
+│   ├── providers.tsx
+│   └── globals.css
+│
+│
+├── components/
+│
+│   ├── common/
+│   │   ├── Navbar.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Loader.tsx
+│   │   ├── EmptyState.tsx
+│   │   ├── ErrorState.tsx
+│   │   ├── SearchBar.tsx
+│   │   ├── ConfirmDialog.tsx
+│   │   └── PageHeader.tsx
+│
+│
+│   ├── layout/
+│   │   ├── Sidebar.tsx
+│   │   ├── Topbar.tsx
+│   │   ├── DashboardLayout.tsx
+│   │   └── RoleGuard.tsx
+│
+│
+│   ├── farm/
+│   ├── seed/
+│   ├── fertilizer/
+│   ├── marketplace/
+│   ├── course/
+│   ├── vlog/
+│   ├── ngo/
+│   ├── allowance/
+│   ├── weather/
+│   ├── ai/
+│   └── charts/
+│
+│
+├── redux/
+│
+│   ├── store.ts
+│
+│   ├── slices/
+│   │
+│   │   ├── authSlice.ts
+│   │   ├── notificationSlice.ts
+│   │   ├── uiSlice.ts
+│   │   ├── cartSlice.ts
+│   │   └── chatSlice.ts
+│
+│
+│   └── api/
+│
+│       ├── baseApi.ts
+│
+│       ├── authApi.ts
+│       ├── userApi.ts
+│       ├── farmApi.ts
+│       ├── seedApi.ts
+│       ├── fertilizerApi.ts
+│       ├── marketplaceApi.ts
+│       ├── vlogApi.ts
+│       ├── cropApi.ts
+│       ├── weatherApi.ts
+│       ├── ngoApi.ts
+│       ├── allowanceApi.ts
+│       ├── reportApi.ts
+│       ├── adminApi.ts
+│       └── aiApi.ts
+│
+│
+├── hooks/
+│   ├── useAuth.ts
+│   ├── useRole.ts
+│   ├── useSocket.ts
+│   ├── useWeather.ts
+│   └── useDebounce.ts
+│
+│
+├── services/
+│   ├── axios.ts
+│   ├── auth.service.ts
+│   ├── socket.service.ts
+│   └── storage.service.ts
+│
+│
+├── lib/
+│   ├── cookies.ts
+│   ├── constants.ts
+│   ├── permissions.ts
+│   └── helpers.ts
+│
+│
+├── types/
+│
+│   ├── auth.types.ts
+│   ├── user.types.ts
+│   ├── farm.types.ts
+│   ├── marketplace.types.ts
+│   ├── course.types.ts
+│   ├── vlog.types.ts
+│   ├── ngo.types.ts
+│   ├── report.types.ts
+│   └── api.types.ts
+│
+│
+├── validations/
+│
+│   ├── login.schema.ts
+│   ├── register.schema.ts
+│   ├── farm.schema.ts
+│   ├── product.schema.ts
+│   └── allowance.schema.ts
+│
+│
+├── theme/
+│
+│   ├── palette.ts
+│   ├── typography.ts
+│   ├── components.ts
+│   ├── shadows.ts
+│   └── index.ts
+│
+│
+├── assets/
+│
+│   ├── images/
+│   ├── icons/
+│   ├── lottie/
+│   └── logos/
+│
+│
+└── middleware.ts 
+
+
+src/
+│
+├── app/
+│   ├── marketplace/
+│   │   ├── page.tsx              // Marketplace Home
+│   │   └── [id]/
+│   │       └── page.tsx          // Product Details
+│   │
+│   ├── cart/
+│   │   └── page.tsx              // Shopping Cart
+│   │
+│   ├── checkout/
+│   │   └── page.tsx              // Checkout
+│   │
+│   └── my-orders/
+│       └── page.tsx              // My Orders
+│
+├── components/
+│   └── marketplace/
+│       ├── MarketplaceHero.tsx
+│       ├── CategoriesSection.tsx
+│       ├── TopProducts.tsx
+│       ├── ProductCard.tsx
+│       ├── ProductGallery.tsx
+│       ├── ProductInfo.tsx
+│       ├── ProductDescription.tsx
+│       ├── RelatedProducts.tsx
+│       ├── CartItem.tsx
+│       ├── OrderSummary.tsx
+│       ├── CheckoutForm.tsx
+│       └── OrderCard.tsx
+
+
+
+src/
+│
+├── app/
+│   └── farmer/
+│       └── dashboard/
+│           └── page.tsx
+│
+├── components/
+│   └── dashboard/
+│       ├── DashboardLayout.tsx
+│       ├── Sidebar.tsx
+│       ├── Header.tsx
+│       ├── WelcomeBanner.tsx
+│       ├── StatsCards.tsx
+│       ├── FarmOverview.tsx
+│       ├── CropCalendar.tsx
+│       ├── WeatherCard.tsx
+│       ├── QuickActions.tsx
+│       ├── Notifications.tsx
+│       ├── AIRecommendation.tsx
+│       ├── LearningPortal.tsx
+│       ├── RecentActivity.tsx
+│       └── HelpCard.tsx
+
+
+src/
+├── app/
+│   └── farmer/
+│       └── profile/
+│           └── page.tsx
+│
+├── components/
+│   └── profile/
+│       ├── ProfileLayout.tsx
+│       ├── ProfileHeader.tsx
+│       ├── ProfileCard.tsx
+│       ├── PersonalInfo.tsx
+│       ├── AddressInfo.tsx
+│       ├── FarmSummary.tsx
+│       ├── ChangePassword.tsx
+│       ├── EditProfileDialog.tsx
+│       ├── UploadAvatar.tsx
+│       └── DeleteAccountDialog.tsx
+│
+├── redux/
+│   └── api/
+│       └── profileApi.ts
+│
+├── types/
+│   └── profile.ts
+
+
+
+src/
+│
+├── app/
+│   ├── admin/
+│   │
+│   ├── dashboard/
+│   │   └── page.tsx
+│   │
+│   ├── users/
+│   │   ├── page.tsx
+│   │   ├── create/
+│   │   │   └── page.tsx
+│   │   └── [id]/
+│   │       ├── page.tsx
+│   │       └── edit/
+│   │           └── page.tsx
+│   │
+│   ├── farmers/
+│   │   ├── page.tsx
+│   │   └── [id]/
+│   │       └── page.tsx
+│   │
+│   ├── ngos/
+│   │   ├── page.tsx
+│   │   ├── pending/
+│   │   │   └── page.tsx
+│   │   └── [id]/
+│   │       └── page.tsx
+│   │
+│   ├── officers/
+│   │   ├── page.tsx
+│   │   └── [id]/
+│   │
+│   ├── ministry/
+│   │   ├── page.tsx
+│   │   └── [id]/
+│   │
+│   ├── marketplace/
+│   │   ├── seeds/
+│   │   ├── fertilizers/
+│   │   ├── equipment/
+│   │   ├── orders/
+│   │   └── analytics/
+│   │
+│   ├── learning/
+│   │   ├── courses/
+│   │   ├── workshops/
+│   │   └── progress/
+│   │
+│   ├── vlogs/
+│   │   ├── page.tsx
+│   │   └── [id]/
+│   │
+│   ├── schemes/
+│   │   ├── page.tsx
+│   │   ├── create/
+│   │   │   └── page.tsx
+│   │   └── [id]/
+│   │       ├── page.tsx
+│   │       └── edit/
+│   │           └── page.tsx
+│   │
+│   ├── allowance/
+│   │   ├── applications/
+│   │   └── reports/
+│   │
+│   ├── reports/
+│   │   ├── users/
+│   │   ├── marketplace/
+│   │   ├── schemes/
+│   │   ├── ngos/
+│   │   └── analytics/
+│   │
+│   ├── settings/
+│   │   ├── profile/
+│   │   ├── system/
+│   │   └── security/
+│   │
+│   ├── audit-logs/
+│   │   └── page.tsx
+│   │
+│   ├── notifications/
+│   │   └── page.tsx
+│   │
+│   ├── support/
+│   │   └── page.tsx
+│   │
+│   └── layout.tsx
+│
+├── components/
+│
+│   ├── admin/
+│   │
+│   ├── layout/
+│   │   ├── Sidebar.tsx
+│   │   ├── Header.tsx
+│   │   ├── Footer.tsx
+│   │   ├── MobileDrawer.tsx
+│   │   └── AdminLayout.tsx
+│   │
+│   ├── dashboard/
+│   │   ├── StatCard.tsx
+│   │   ├── UserGrowthChart.tsx
+│   │   ├── UserRoleChart.tsx
+│   │   ├── MarketplaceOverview.tsx
+│   │   ├── AllowanceChart.tsx
+│   │   ├── RecentRegistration.tsx
+│   │   ├── RecentActivity.tsx
+│   │   ├── AlertsCard.tsx
+│   │   └── QuickLinks.tsx
+│   │
+│   ├── users/
+│   ├── ngos/
+│   ├── farmers/
+│   ├── schemes/
+│   ├── marketplace/
+│   ├── reports/
+│   ├── settings/
+│   └── common/
+│       ├── SearchBar.tsx
+│       ├── DataTable.tsx
+│       ├── ConfirmDialog.tsx
+│       ├── EmptyState.tsx
+│       ├── Loading.tsx
+│       ├── PageHeader.tsx
+│       └── Pagination.tsx
+│
+├── redux/
+│
+│   ├── api/
+│   │
+│   ├── dashboardApi.ts
+│   ├── userApi.ts
+│   ├── farmerApi.ts
+│   ├── ngoApi.ts
+│   ├── officerApi.ts
+│   ├── ministryApi.ts
+│   ├── schemeApi.ts
+│   ├── marketplaceApi.ts
+│   ├── orderApi.ts
+│   ├── reportApi.ts
+│   ├── workshopApi.ts
+│   ├── learningApi.ts
+│   ├── notificationApi.ts
+│   └── settingsApi.ts
+│
+├── types/
+│
+│   ├── dashboard.ts
+│   ├── user.ts
+│   ├── ngo.ts
+│   ├── farmer.ts
+│   ├── scheme.ts
+│   ├── marketplace.ts
+│   ├── report.ts
+│   └── notification.ts
+│
+├── hooks/
+│
+├── utils/
+│
+├── constants/
+│
+├── theme/
+│
+├── providers/
+│
+└── middleware.ts
+
+
+Dashboard API (statistics, charts, recent activities)
+Admin RTK Query (adminApi.ts)
+Dashboard UI connected to live APIs
+Government Schemes CRUD
+User Management CRUD
+Marketplace CRUD
+Reports & Analytics 
+
+src/
+└── redux/
+    └── api/
+        ├── baseApi.ts               // Base RTK Query configuration
+        ├── authApi.ts               // Login, Register, OTP, Forgot Password
+        ├── adminApi.ts              // Dashboard, Users, Analytics
+        ├── userApi.ts               // My Profile, Update Profile
+        ├── farmerApi.ts             // Farms, Crops, Farm Mapping
+        ├── ngoApi.ts                // NGO, Workshops, Training
+        ├── marketplaceApi.ts        // Seeds, Fertilizers, Equipment, Orders
+        ├── schemeApi.ts             // Government Schemes
+        ├── reportApi.ts             // Reports, Analytics, Export
+        ├── notificationApi.ts       // Notifications
+        ├── aiApi.ts                 // AI Chat, Disease Detection
+        ├── weatherApi.ts            // Weather Forecast
+        ├── learningApi.ts           // Courses, Videos, Progress
+        ├── allowanceApi.ts          // Allowance Applications
+        ├── farmMapApi.ts            // GIS Maps
+        ├── cropCalendarApi.ts       // Crop Calendar
+        ├── diseaseApi.ts            // Crop Disease Detection
+        ├── orderApi.ts              // Marketplace Orders
+        ├── reviewApi.ts             // Product Reviews
+        ├── dashboardApi.ts          // Dashboard Statistics
+        ├── uploadApi.ts             // Cloudinary/File Upload
+        └── index.ts                 // Export all APIs
+
+
+
+        types
+├── api.types.ts
+├── user.types.ts
+├── dashboard.types.ts
+├── scheme.types.ts
+├── marketplace.types.ts
+├── analytics.types.ts
+└── report.types.ts
+
+redux
+└── api
+    ├── baseApi.ts
+    ├── authApi.ts
+    ├── adminApi.ts
+    ├── farmerApi.ts
+    ├── ngoApi.ts
+    ├── schemeApi.ts
+    ├── marketplaceApi.ts
+    ├── learningApi.ts
+    ├── analyticsApi.ts
+    └── reportApi.ts
+
+
+    components
+└── admin
+    ├── layout
+    │   ├── AdminLayout.tsx
+    │   ├── Sidebar.tsx
+    │   ├── Header.tsx
+    │   ├── Footer.tsx
+    │   ├── NotificationMenu.tsx
+    │   └── ProfileMenu.tsx
+    │
+    ├── dashboard
+    │   ├── DashboardStats.tsx
+    │   ├── UserGrowthChart.tsx
+    │   ├── UsersRoleChart.tsx
+    │   ├── MarketplaceOverview.tsx
+    │   ├── RecentRegistrations.tsx
+    │   ├── RecentActivities.tsx
+    │   ├── SystemAlerts.tsx
+    │   └── QuickActions.tsx
+    │
+    ├── users
+    │   ├── UserToolbar.tsx
+    │   ├── UserTable.tsx
+    │   ├── UserDetailsDrawer.tsx
+    │   ├── AddUserDialog.tsx
+    │   ├── EditUserDialog.tsx
+    │   ├── DeleteUserDialog.tsx
+    │   └── UserFilter.tsx
+    │
+    ├── schemes
+    │   ├── SchemeTable.tsx
+    │   ├── SchemeForm.tsx
+    │   ├── AddSchemeDialog.tsx
+    │   ├── EditSchemeDialog.tsx
+    │   └── DeleteSchemeDialog.tsx
+    │
+    ├── marketplace
+    │   ├── ProductTable.tsx
+    │   ├── ProductForm.tsx
+    │   ├── OrderTable.tsx
+    │   └── MarketplaceStats.tsx
+    │
+    ├── learning
+    │   ├── CourseTable.tsx
+    │   ├── CourseForm.tsx
+    │   └── CourseStats.tsx
+    │
+    ├── analytics
+    │   ├── RevenueChart.tsx
+    │   ├── RegistrationChart.tsx
+    │   ├── FarmerChart.tsx
+    │   └── OrdersChart.tsx
+    │
+    └── common
+        ├── ConfirmDialog.tsx
+        ├── EmptyState.tsx
+        ├── SearchField.tsx
+        ├── PageHeader.tsx
+        ├── Loading.tsx
+        └── Error.tsx
+
+
+   app
+└── admin
+    ├── dashboard
+    │   └── page.tsx
+    ├── users
+    │   └── page.tsx
+    ├── farmers
+    │   └── page.tsx
+    ├── ngos
+    │   └── page.tsx
+    ├── schemes
+    │   ├── page.tsx
+    │   ├── create
+    │   │   └── page.tsx
+    │   └── [id]
+    │       └── page.tsx
+    ├── marketplace
+    │   ├── page.tsx
+    │   ├── orders
+    │   │   └── page.tsx
+    │   ├── products
+    │   │   └── page.tsx
+    │   └── create
+    │       └── page.tsx
+    ├── learning
+    │   ├── page.tsx
+    │   ├── courses
+    │   │   └── page.tsx
+    │   └── create
+    │       └── page.tsx
+    ├── reports
+    │   └── page.tsx
+    ├── analytics
+    │   └── page.tsx
+    ├── settings
+    │   └── page.tsx
+    └── profile
+        └── page.tsx     
+
+
+
+        app
+└── marketplace
+    ├── page.tsx                 // Marketplace Home
+    ├── [id]
+    │   └── page.tsx             // Product Details
+    ├── cart
+    │   └── page.tsx
+    ├── checkout
+    │   └── page.tsx
+    ├── orders
+    │   └── page.tsx
+    └── components
+        ├── HeroBanner.tsx
+        ├── CategorySidebar.tsx
+        ├── CategoryCards.tsx
+        ├── SearchBar.tsx
+        ├── ProductCard.tsx
+        ├── ProductGrid.tsx
+        ├── FilterDrawer.tsx
+        ├── ProductSkeleton.tsx
+        └── FeatureSection.tsx
